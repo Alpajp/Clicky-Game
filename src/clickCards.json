@@ -70,30 +70,5 @@
     "name": "Captain Falcon",
     "image": "./images/captFalcon.jpg",
     "clicked": false
-  },
-  {
-    "id": 13,
-    "name": "Peach",
-    "image": "./images/peach.jpg",
-    "clicked": false
-  },
-  {
-    "id": 14,
-    "name": "Bowser",
-    "image": "./images/bowser.jpg",
-    "clicked": false
-  },
-  {
-    "id": 15,
-    "name": "Zelda",
-    "image": "./images/zelda.jpg",
-    "clicked": false
-  },
-  {
-    "id": 16,
-    "name": "Sheik",
-    "image": "./images/sheik.jpg",
-    "clicked": false
-  }
-  
+  } 
 ]
