@@ -30,3 +30,8 @@ Technologies Used
 * Node.js
 * Node Express
 * React
+
+
+Screenshot
+
+![Clicky](https://user-images.githubusercontent.com/45401358/60377598-68b91a80-99e6-11e9-8b2c-5f2ca33b61c8.PNG)
